@@ -11,8 +11,8 @@ In this project, we used Python in Rivanna, UVA's High-Performance-Computer, all
   - Confusion_Matrix.png
   - Galaxy_Classification_Images.png
   - grad_cam_1.png
+  - grad_cam_2.png
   - grad_cam_8.png
-  - grad_cam_9.png
 - SCRIPTS
   - EDA.ipynb
   - MI3_Project3_Model.ipynb
